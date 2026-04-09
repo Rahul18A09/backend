@@ -1,0 +1,12 @@
+[
+{ "_id": 1, "name": "Amit Shah", "email": "amit@mail.com", "city": "Surat", "role": "customer", "age": 28 },
+{ "_id": 2, "name": "Ravi Patel", "email": "ravi@mail.com", "city": "Ahmedabad", "role": "customer", "age": 32 },
+{ "_id": 3, "name": "Neha Sharma", "email": "neha@mail.com", "city": "Vadodara", "role": "seller", "age": 26 },
+{ "_id": 4, "name": "Karan Mehta", "email": "karan@mail.com", "city": "Rajkot", "role": "customer", "age": 30 },
+{ "_id": 5, "name": "Priya Desai", "email": "priya@mail.com", "city": "Surat", "role": "admin", "age": 35 },
+{ "_id": 6, "name": "Rahul Jain", "email": "rahul@mail.com", "city": "Mumbai", "role": "customer", "age": 27 },
+{ "_id": 7, "name": "Sneha Verma", "email": "sneha@mail.com", "city": "Delhi", "role": "seller", "age": 29 },
+{ "_id": 8, "name": "Arjun Singh", "email": "arjun@mail.com", "city": "Pune", "role": "customer", "age": 24 },
+{ "_id": 9, "name": "Meera Nair", "email": "meera@mail.com", "city": "Bangalore", "role": "customer", "age": 31 },
+{ "_id": 10, "name": "Vikram Joshi", "email": "vikram@mail.com", "city": "Surat", "role": "seller", "age": 34 }
+]

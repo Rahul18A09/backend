@@ -65,10 +65,10 @@ app.patch("/notes/:id", (req, res) => {
   });
 });
 
+
 // DELETE API
 
 app.delete("/notes/:id", (req, res) => {
-
 
   const id = req.params.id;
 

@@ -1,0 +1,648 @@
+[
+  {
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "price": 79900,
+    "brand": "Apple",
+    "stock": 15,
+    "rating": 4.7,
+    "discount": 10,
+    "inStock": true,
+    "tags": [
+      "mobile",
+      "ios",
+      "premium"
+    ],
+    "specs": {
+      "color": "Black",
+      "weight": "172g",
+      "warranty": "1 year"
+    },
+    "reviews": [
+      {
+        "user": "Amit",
+        "rating": 5,
+        "comment": "Excellent phone"
+      },
+      {
+        "user": "Raj",
+        "rating": 4,
+        "comment": "Very smooth"
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 74999,
+    "brand": "Samsung",
+    "stock": 20,
+    "rating": 4.6,
+    "discount": 12,
+    "inStock": true,
+    "tags": [
+      "mobile",
+      "android",
+      "flagship"
+    ],
+    "specs": {
+      "color": "Green",
+      "weight": "168g",
+      "warranty": "1 year"
+    },
+    "reviews": [
+      {
+        "user": "Neha",
+        "rating": 5,
+        "comment": "Camera awesome"
+      },
+      {
+        "user": "Karan",
+        "rating": 4,
+        "comment": "Good battery"
+      }
+    ]
+  },
+  {
+    "name": "OnePlus 11",
+    "category": "Electronics",
+    "price": 56999,
+    "brand": "OnePlus",
+    "stock": 18,
+    "rating": 4.5,
+    "discount": 8,
+    "inStock": true,
+    "tags": [
+      "mobile",
+      "android"
+    ],
+    "specs": {
+      "color": "Silver",
+      "weight": "175g",
+      "warranty": "1 year"
+    },
+    "reviews": [
+      {
+        "user": "Ravi",
+        "rating": 5,
+        "comment": "Fast performance"
+      }
+    ]
+  },
+  {
+    "name": "Realme GT",
+    "category": "Electronics",
+    "price": 35999,
+    "brand": "Realme",
+    "stock": 25,
+    "rating": 4.3,
+    "discount": 15,
+    "inStock": true,
+    "tags": [
+      "mobile",
+      "budget"
+    ],
+    "specs": {
+      "color": "Blue",
+      "weight": "182g",
+      "warranty": "1 year"
+    },
+    "reviews": [
+      {
+        "user": "Jay",
+        "rating": 4,
+        "comment": "Worth price"
+      }
+    ]
+  },
+  {
+    "name": "Dell Inspiron Laptop",
+    "category": "Computers",
+    "price": 65999,
+    "brand": "Dell",
+    "stock": 10,
+    "rating": 4.3,
+    "discount": 15,
+    "inStock": true,
+    "tags": [
+      "laptop",
+      "office"
+    ],
+    "specs": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "warranty": "2 year"
+    },
+    "reviews": [
+      {
+        "user": "Mehul",
+        "rating": 4,
+        "comment": "Good for work"
+      }
+    ]
+  },
+  {
+    "name": "HP Pavilion Laptop",
+    "category": "Computers",
+    "price": 62999,
+    "brand": "HP",
+    "stock": 8,
+    "rating": 4.2,
+    "discount": 18,
+    "inStock": true,
+    "tags": [
+      "laptop",
+      "student"
+    ],
+    "specs": {
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "warranty": "1 year"
+    },
+    "reviews": [
+      {
+        "user": "Pooja",
+        "rating": 4,
+        "comment": "Nice design"
+      }
+    ]
+  },
+  {
+    "name": "Asus Gaming Laptop",
+    "category": "Computers",
+    "price": 89999,
+    "brand": "Asus",
+    "stock": 5,
+    "rating": 4.7,
+    "discount": 7,
+    "inStock": true,
+    "tags": [
+      "laptop",
+      "gaming"
+    ],
+    "specs": {
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "warranty": "2 year"
+    },
+    "reviews": [
+      {
+        "user": "Hardik",
+        "rating": 5,
+        "comment": "Beast performance"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo Tablet",
+    "category": "Electronics",
+    "price": 19999,
+    "brand": "Lenovo",
+    "stock": 12,
+    "rating": 4.2,
+    "discount": 10,
+    "inStock": true,
+    "tags": [
+      "tablet",
+      "android"
+    ],
+    "specs": {
+      "screen": "10 inch",
+      "battery": "7000mAh"
+    },
+    "reviews": [
+      {
+        "user": "Nita",
+        "rating": 4,
+        "comment": "Good for study"
+      }
+    ]
+  },
+  {
+    "name": "Sony Headphones",
+    "category": "Accessories",
+    "price": 9999,
+    "brand": "Sony",
+    "stock": 25,
+    "rating": 4.6,
+    "discount": 20,
+    "inStock": true,
+    "tags": [
+      "audio",
+      "wireless"
+    ],
+    "specs": {
+      "color": "Black",
+      "battery": "30hr"
+    },
+    "reviews": [
+      {
+        "user": "Dev",
+        "rating": 5,
+        "comment": "Best sound"
+      }
+    ]
+  },
+  {
+    "name": "Boat Earbuds",
+    "category": "Accessories",
+    "price": 1999,
+    "brand": "Boat",
+    "stock": 50,
+    "rating": 4.1,
+    "discount": 25,
+    "inStock": true,
+    "tags": [
+      "audio",
+      "budget"
+    ],
+    "specs": {
+      "color": "White",
+      "battery": "20hr"
+    },
+    "reviews": [
+      {
+        "user": "Riya",
+        "rating": 4,
+        "comment": "Value for money"
+      }
+    ]
+  },
+  {
+    "name": "JBL Speaker",
+    "category": "Accessories",
+    "price": 4999,
+    "brand": "JBL",
+    "stock": 18,
+    "rating": 4.4,
+    "discount": 18,
+    "inStock": true,
+    "tags": [
+      "audio",
+      "bluetooth"
+    ],
+    "specs": {
+      "battery": "12hr",
+      "waterproof": true
+    },
+    "reviews": [
+      {
+        "user": "Kishan",
+        "rating": 5,
+        "comment": "Loud sound"
+      }
+    ]
+  },
+  {
+    "name": "Mi Power Bank",
+    "category": "Accessories",
+    "price": 1499,
+    "brand": "Xiaomi",
+    "stock": 45,
+    "rating": 4.3,
+    "discount": 15,
+    "inStock": true,
+    "tags": [
+      "charging",
+      "portable"
+    ],
+    "specs": {
+      "capacity": "20000mAh"
+    },
+    "reviews": [
+      {
+        "user": "Aarti",
+        "rating": 4,
+        "comment": "Useful"
+      }
+    ]
+  },
+  {
+    "name": "LG Smart TV",
+    "category": "Electronics",
+    "price": 38999,
+    "brand": "LG",
+    "stock": 6,
+    "rating": 4.4,
+    "discount": 15,
+    "inStock": true,
+    "tags": [
+      "tv",
+      "smart"
+    ],
+    "specs": {
+      "screen": "43 inch",
+      "resolution": "4K"
+    },
+    "reviews": [
+      {
+        "user": "Ramesh",
+        "rating": 4,
+        "comment": "Great display"
+      }
+    ]
+  },
+  {
+    "name": "Samsung Refrigerator",
+    "category": "Home Appliances",
+    "price": 52999,
+    "brand": "Samsung",
+    "stock": 5,
+    "rating": 4.5,
+    "discount": 18,
+    "inStock": true,
+    "tags": [
+      "kitchen",
+      "cooling"
+    ],
+    "specs": {
+      "capacity": "253L",
+      "type": "Double Door"
+    },
+    "reviews": [
+      {
+        "user": "Nita",
+        "rating": 5,
+        "comment": "Spacious"
+      }
+    ]
+  },
+  {
+    "name": "Whirlpool Washing Machine",
+    "category": "Home Appliances",
+    "price": 28999,
+    "brand": "Whirlpool",
+    "stock": 7,
+    "rating": 4.3,
+    "discount": 12,
+    "inStock": true,
+    "tags": [
+      "laundry",
+      "automatic"
+    ],
+    "specs": {
+      "capacity": "7kg"
+    },
+    "reviews": [
+      {
+        "user": "Mahesh",
+        "rating": 4,
+        "comment": "Easy to use"
+      }
+    ]
+  },
+  {
+    "name": "Philips Mixer Grinder",
+    "category": "Home Appliances",
+    "price": 3499,
+    "brand": "Philips",
+    "stock": 20,
+    "rating": 4.1,
+    "discount": 10,
+    "inStock": true,
+    "tags": [
+      "kitchen"
+    ],
+    "specs": {
+      "power": "750W"
+    },
+    "reviews": [
+      {
+        "user": "Sejal",
+        "rating": 4,
+        "comment": "Good quality"
+      }
+    ]
+  },
+  {
+    "name": "Nike Running Shoes",
+    "category": "Footwear",
+    "price": 5999,
+    "brand": "Nike",
+    "stock": 30,
+    "rating": 4.5,
+    "discount": 30,
+    "inStock": true,
+    "tags": [
+      "sports",
+      "running"
+    ],
+    "specs": {
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "color": "Blue"
+    },
+    "reviews": [
+      {
+        "user": "Jay",
+        "rating": 5,
+        "comment": "Comfortable"
+      }
+    ]
+  },
+  {
+    "name": "Adidas Sneakers",
+    "category": "Footwear",
+    "price": 5499,
+    "brand": "Adidas",
+    "stock": 28,
+    "rating": 4.3,
+    "discount": 25,
+    "inStock": true,
+    "tags": [
+      "casual"
+    ],
+    "specs": {
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "color": "White"
+    },
+    "reviews": [
+      {
+        "user": "Rohan",
+        "rating": 4,
+        "comment": "Stylish"
+      }
+    ]
+  },
+  {
+    "name": "Puma Sports Shoes",
+    "category": "Footwear",
+    "price": 4999,
+    "brand": "Puma",
+    "stock": 22,
+    "rating": 4.2,
+    "discount": 20,
+    "inStock": true,
+    "tags": [
+      "sports"
+    ],
+    "specs": {
+      "sizes": [
+        7,
+        8,
+        9
+      ],
+      "color": "Black"
+    },
+    "reviews": [
+      {
+        "user": "Alok",
+        "rating": 4,
+        "comment": "Lightweight"
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "category": "Wearables",
+    "price": 45999,
+    "brand": "Apple",
+    "stock": 12,
+    "rating": 4.8,
+    "discount": 5,
+    "inStock": true,
+    "tags": [
+      "smartwatch",
+      "fitness"
+    ],
+    "specs": {
+      "battery": "18hr",
+      "waterproof": true
+    },
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 5,
+        "comment": "Premium feel"
+      }
+    ]
+  },
+  {
+    "name": "Samsung Smart Watch",
+    "category": "Wearables",
+    "price": 22999,
+    "brand": "Samsung",
+    "stock": 14,
+    "rating": 4.4,
+    "discount": 10,
+    "inStock": true,
+    "tags": [
+      "smartwatch"
+    ],
+    "specs": {
+      "battery": "24hr"
+    },
+    "reviews": [
+      {
+        "user": "Manoj",
+        "rating": 4,
+        "comment": "Nice UI"
+      }
+    ]
+  },
+  {
+    "name": "Canon DSLR Camera",
+    "category": "Electronics",
+    "price": 45999,
+    "brand": "Canon",
+    "stock": 4,
+    "rating": 4.6,
+    "discount": 8,
+    "inStock": true,
+    "tags": [
+      "camera",
+      "photography"
+    ],
+    "specs": {
+      "resolution": "24MP"
+    },
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 5,
+        "comment": "Sharp photos"
+      }
+    ]
+  },
+  {
+    "name": "Logitech Mouse",
+    "category": "Computers",
+    "price": 799,
+    "brand": "Logitech",
+    "stock": 60,
+    "rating": 4.4,
+    "discount": 15,
+    "inStock": true,
+    "tags": [
+      "computer",
+      "accessory"
+    ],
+    "specs": {
+      "type": "Wireless"
+    },
+    "reviews": [
+      {
+        "user": "Deep",
+        "rating": 4,
+        "comment": "Smooth"
+      }
+    ]
+  },
+  {
+    "name": "HP Keyboard",
+    "category": "Computers",
+    "price": 1299,
+    "brand": "HP",
+    "stock": 40,
+    "rating": 4.2,
+    "discount": 10,
+    "inStock": true,
+    "tags": [
+      "computer",
+      "accessory"
+    ],
+    "specs": {
+      "type": "Mechanical"
+    },
+    "reviews": [
+      {
+        "user": "Ankit",
+        "rating": 4,
+        "comment": "Comfort typing"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Echo Dot",
+    "category": "Electronics",
+    "price": 4499,
+    "brand": "Amazon",
+    "stock": 16,
+    "rating": 4.4,
+    "discount": 22,
+    "inStock": true,
+    "tags": [
+      "smart",
+      "voice"
+    ],
+    "specs": {
+      "assistant": "Alexa"
+    },
+    "reviews": [
+      {
+        "user": "Kiran",
+        "rating": 5,
+        "comment": "Very helpful"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+{ "_id": 1001, "userId": 1, "productId": 201, "quantity": 1, "total": 70000, "status": "Delivered", "date": "2025-01-10" },
+{ "_id": 1002, "userId": 2, "productId": 203, "quantity": 2, "total": 10000, "status": "Delivered", "date": "2025-01-12" },
+{ "_id": 1003, "userId": 3, "productId": 204, "quantity": 1, "total": 3500, "status": "Pending", "date": "2025-01-15" },
+{ "_id": 1004, "userId": 4, "productId": 205, "quantity": 1, "total": 65000, "status": "Delivered", "date": "2025-01-18" },
+{ "_id": 1005, "userId": 5, "productId": 208, "quantity": 3, "total": 7500, "status": "Cancelled", "date": "2025-01-20" },
+{ "_id": 1006, "userId": 6, "productId": 206, "quantity": 4, "total": 3600, "status": "Delivered", "date": "2025-01-22" },
+{ "_id": 1007, "userId": 7, "productId": 207, "quantity": 1, "total": 8000, "status": "Pending", "date": "2025-01-25" },
+{ "_id": 1008, "userId": 8, "productId": 209, "quantity": 1, "total": 12000, "status": "Delivered", "date": "2025-01-28" },
+{ "_id": 1009, "userId": 9, "productId": 210, "quantity": 2, "total": 3000, "status": "Delivered", "date": "2025-02-01" },
+{ "_id": 1010, "userId": 10, "productId": 202, "quantity": 1, "total": 45000, "status": "Pending", "date": "2025-02-05" }
+]
