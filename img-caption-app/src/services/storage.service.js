@@ -3,8 +3,10 @@ const ImageKit = require("@imagekit/nodejs");
 
 
 const imageKit = new ImageKit({
-    privateKey: "private_4MZEWV3emoK7Rp6hMIkZg5RlZ8A="
-})
+  publicKey: process.env.IMAGEKIT_PUBLIC_KEY,
+  privateKey: process.env.IMAGEKIT_PRIVATE_KEY,
+  urlEndpoint: process.env.IMAGEKIT_URL_ENDPOINT
+});
 
 
 async  function uploadFile(buffer) {
