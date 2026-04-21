@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Rahul18A09/backend/issues"
   },
-  "homepage": "https://github.com/Rahul18A09/backend#readme"
+  "homepage": "https://github.com/Rahul18A09/backend#readme",
+  "dependencies": {
+    "react-router-dom": "^7.14.1"
+  }
 }
